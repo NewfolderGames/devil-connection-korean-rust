@@ -1,4 +1,4 @@
-# Devil Connection Korean (비공식 한글 번역)
+# Devil Connection Korean (비공식 한글 번역) - 러스트 포트
 ![Release](https://img.shields.io/github/v/release/n4yabi12/devil-connection-korean?style=flat&color=6366f1)
 ![Downloads](https://img.shields.io/github/downloads/n4yabi12/devil-connection-korean/total?style=flat&color=10b981)
 ![Last Commit](https://img.shields.io/github/last-commit/n4yabi12/devil-connection-korean?style=flat&color=f59e0b)
@@ -15,7 +15,11 @@
 
 ---
 
+## 러스트 포트
 
+해당 레포지토리는 [원본 소스](https://github.com/n4yabi12/devil-connection-korean)의 러스트 포팅 실험으로 만든 레포지토리 입니다.
+
+--
 
 ## 설치 방법
 
